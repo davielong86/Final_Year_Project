@@ -1,0 +1,39 @@
+body{
+	background-image: url(Purpleheart.png);
+	}
+#parent {
+	border: 1px solid #000;
+	width: 90%;
+	color: #000000;
+	background-color: #FFD9FF;
+	margin: auto;
+      }
+#wrapper .leftinnerDiv{
+        float: left;
+        width: 85%;
+      } 
+#wrapper .rightinnerDiv {
+	margin-left: 88%;
+	margin-top: 5%;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+      }
+table.naked_table {
+		width: 100%;
+        margin-left: -20px;
+        border: none;
+        border-collapse: separate;
+        border-spacing: 30px 20px;
+      }
+table.naked_table td.input_slider {
+        text-align: left;
+      }
+label.before_slider {
+        display: inline-block;
+        width: 100%;
+        padding-left: 0;
+        margin-left: 0;
+        text-align: right;
+      }
